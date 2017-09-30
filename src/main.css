@@ -1,4 +1,4 @@
-h1.site-description:before {
+.tagline {
 content:    "This is an extra tagline above the existing Tagline";
 display:    block;
 text-align: right;
