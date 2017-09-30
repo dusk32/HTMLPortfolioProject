@@ -1,0 +1,5 @@
+h1.site-title:after {
+  content: "This is my tagline";
+  display: block;
+  font-size: 20px;
+}
