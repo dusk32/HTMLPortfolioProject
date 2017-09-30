@@ -1,5 +1,6 @@
-.tagline {
+h1.tagline {
 content:    "This is an extra tagline above the existing Tagline";
 display:    block;
-text-align: right;
+text-align: left;
+<h3> heres what i do<h3>
 }
